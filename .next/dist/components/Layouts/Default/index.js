@@ -21,7 +21,7 @@ var DefaultLayout = function DefaultLayout(props) {
   return _react2.default.createElement('div', {
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 4
+      lineNumber: 5
     }
   }, _react2.default.createElement(_PageHeader2.default, {
     __source: {
